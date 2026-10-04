@@ -1,0 +1,2 @@
+# premium-carbide-tip-001-carbide-tip-brazing-tool-bit
+Tired of losing track of your brazing rod inventory or struggling to replicate a perfect tool bit geometry? This Notion template brings order to your carbide tip craft.  The Carbide Tip Brazing &amp; Tool Bit Craft Studio gives you a centralized database to log every tool bit specification, brazing recipe, and material stock. No more scattered notes or
